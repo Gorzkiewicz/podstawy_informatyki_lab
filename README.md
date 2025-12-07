@@ -1,2 +1,1 @@
-# podstawy_informatyki_lab
-# podstawy_informatyki_lab
+Nowe niesamowite repo labolatoriów z podstaw informatyki
